@@ -1,0 +1,12 @@
+C:\Users\Morgan\source\repos\Musik\Musik\bin\Release\Musik.exe.config
+C:\Users\Morgan\source\repos\Musik\Musik\bin\Release\Musik.exe
+C:\Users\Morgan\source\repos\Musik\Musik\bin\Release\Musik.pdb
+C:\Users\Morgan\source\repos\Musik\Musik\obj\Release\Musik.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\source\repos\Musik\Musik\obj\Release\Musik.exe
+C:\Users\Morgan\source\repos\Musik\Musik\obj\Release\Musik.pdb
+C:\Users\Morgan\Desktop\Musik\Musik\obj\Release\Musik.csprojAssemblyReference.cache
+C:\Users\Morgan\Desktop\Musik\Musik\obj\Release\Musik.exe
+C:\Users\Morgan\Desktop\Musik\Musik\obj\Release\Musik.pdb
+C:\Users\Morgan\Desktop\Musik\Musik\bin\Release\Musik.exe.config
+C:\Users\Morgan\Desktop\Musik\Musik\bin\Release\Musik.exe
+C:\Users\Morgan\Desktop\Musik\Musik\bin\Release\Musik.pdb
